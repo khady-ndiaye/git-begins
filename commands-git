@@ -1,0 +1,5 @@
+git clone <lien du nouveau repostiory>
+git add .
+git commit -m "mon projet"
+git push
+
